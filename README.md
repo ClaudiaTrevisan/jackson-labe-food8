@@ -1,68 +1,40 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### FutureEATS
 
-## Available Scripts
+### O que funciona
+- Login
+- Cadastro
+- Cadastro de endereço
+- Feed e Busca de Restaurantes
+- Visualização e Edição Perfil e Endereço
+- Navegação e proteção das páginas
+- Fazer pedido
 
-In the project directory, you can run:
+### O que não funciona
+- Remover itens do carrinho
+- Acompanhamento do pedido
+- Carrinho vazio quebra
+- Testes
 
-### `npm start`
+### Link do Surge
+http://futureats.surge.sh/
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Imagens
+Feed
+![image](https://user-images.githubusercontent.com/42482535/95635911-22b18a00-0a64-11eb-9034-f004a6e7c4ca.png)
+Search
+![image](https://user-images.githubusercontent.com/42482535/95635935-35c45a00-0a64-11eb-9aa4-c78a739b61f0.png)
+![image](https://user-images.githubusercontent.com/42482535/95635946-407eef00-0a64-11eb-8148-826dffc9bfab.png)
+![image](https://user-images.githubusercontent.com/42482535/95635959-47a5fd00-0a64-11eb-91b3-650950ef7cb6.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Carrinho
+![image](https://user-images.githubusercontent.com/42482535/95636052-82a83080-0a64-11eb-8a25-9d02d0f8d6d5.png)
 
-### `npm test`
+Perfil e edição
+![image](https://user-images.githubusercontent.com/42482535/95636094-98b5f100-0a64-11eb-8cda-b4f905479d1f.png)
+![image](https://user-images.githubusercontent.com/42482535/95636106-9fdcff00-0a64-11eb-9b82-196f22f630cb.png)
+![image](https://user-images.githubusercontent.com/42482535/95636117-a66b7680-0a64-11eb-99f7-9fe6e59c8a6c.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Login e Cadastro
+<img width="346" alt="Captura de Tela 2020-10-09 às 19 19 21" src="https://user-images.githubusercontent.com/42482535/95636177-d31f8e00-0a64-11eb-841e-a8620cd776bd.png">
+<img width="345" alt="Captura de Tela 2020-10-09 às 19 19 28" src="https://user-images.githubusercontent.com/42482535/95636179-d450bb00-0a64-11eb-8c11-e5650e584dc9.png">
+<img width="344" alt="Captura de Tela 2020-10-09 às 19 19 45" src="https://user-images.githubusercontent.com/42482535/95636180-d450bb00-0a64-11eb-9a93-9f6171e985da.png">
